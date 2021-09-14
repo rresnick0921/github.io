@@ -1,2 +1,3 @@
 # github.io
 Assignments from Aquent's Modern Web Design class, plus whatever else I might create.
+This repository reflects assignments in Aquent's Modern Web Design course. The content is not meant for publication, only for my own edification. As such, I cannot guarantee the accuracy of the content. I do not own the content, as it came from Wikipedia. You probably should not try to pass it off as your own. As the content is about Star Trek, you might do better to find information directly from Paramount regarding the various series. I'm not sure what the best source would be regarding the books.
